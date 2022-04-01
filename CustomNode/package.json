@@ -1,0 +1,17 @@
+{
+    "name": "custom-node-module",
+    "version": "1.0.0",
+    "description": "Custom node module allows for searching by keyword.",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Alexandra Strong",
+    "license": "MIT",
+    "dependencies": {
+      "inquirer": "^8.2.1",
+      "superagent": "^7.1.1",
+      "yargs": "^17.3.1"
+    }
+  }
+  
