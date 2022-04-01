@@ -1,0 +1,17 @@
+{
+    "name": "cli-js",
+    "version": "1.0.0",
+    "description": "CLI to interact through command line help.",
+    "main": "cli.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Alexandra Strong",
+    "license": "MIT",
+    "dependencies": {
+      "inquirer": "^8.2.1",
+      "superagent": "^7.1.1",
+      "yargs": "^17.3.1"
+    }
+  }
+  
